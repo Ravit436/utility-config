@@ -1,0 +1,3 @@
+#add this line to zshrc
+
+alias myip="curl https://ipecho.net/plain; echo"
